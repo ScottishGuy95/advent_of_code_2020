@@ -1,6 +1,6 @@
 #! python3
 # EncodingError.py - Find the weakness in the XMAS encryption
-# Advent Of Code 2020 - Day 8
+# Advent Of Code 2020 - Day 9
 from itertools import combinations
 
 filename = "input.txt"
